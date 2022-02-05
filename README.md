@@ -1,6 +1,6 @@
 **<h3>  😎  &nbsp;Sobre mim </h3>**
 
-- 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
+- 🤓 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 &nbsp; Formado em Administração e Engenharia Civil.
 - 💼 &nbsp; Buscando uma oportunidade profissional.
 - 🌱 &nbsp; Aprendendo mais sobre **Python, Javascript, Angular 8+ e ReactJS**.
@@ -38,9 +38,6 @@
     <img height="220em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Martarelli&hide=html&layout=compact=true&theme=dark" />
   </a>
 <br/>
-
-
-<h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
 
 [![Linkedin: Renan Martarelli](https://img.shields.io/badge/-Martarelli-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rmartarelli/)](https://www.linkedin.com/in/rmartarelli/)
 [![Gmail Badge](https://img.shields.io/badge/-Martarelli-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:renanmartarelli@gmail.com)](mailto:renanmartarelli@gmail.com)
