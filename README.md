@@ -34,11 +34,13 @@
 <a href="https://github.com/martarelli">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=martarelli&theme=dark&show_icons=true" />
 </a>
-
+<a href="https://github.com/martarelli">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Martarelli&hide=html&layout=compact=true&theme=dark" />
+</a>
 <br/>
 
 [![card](https://github-readme-stats.vercel.app/api?username=Martarelli&theme=default&show_icons=true)](https://github.com/martarelli/)
-[![martarelli](https://github-readme-stats.vercel.app/api/top-langs/?username=Martarelli&hide=html&layout=compact=true&theme=dark)](https://github.com/martarelli/)
+[![martarelli]()](https://github.com/martarelli/)
 
 <h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
 
