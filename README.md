@@ -32,9 +32,9 @@
 <br/>
 
 <a href="https://github.com/martarelli">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=martarelli&theme=dracula&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=martarelli&theme=dark&show_icons=true" />
 </a>
-
+[![martarelli](https://github-readme-stats.vercel.app/api/top-langs/?username=martarelli&hide=html&layout=compact=true&theme=dark)](https://github.com/martarelli/)
 <br/>
 
 <h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
