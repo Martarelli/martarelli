@@ -2,7 +2,7 @@
 
 - 🤓 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 &nbsp; Formado em Administração e Engenharia Civil.
-- 💼 &nbsp; Buscando uma oportunidade profissional.
+- 💼 &nbsp; Buscando uma oportunidade profissional como Desenvolvedor de Softwares.
 - 🌱 &nbsp; Aprendendo mais sobre **Python, Javascript, Angular 8+ e ReactJS**.
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
