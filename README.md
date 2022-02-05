@@ -32,10 +32,10 @@
 <br/>
 
   <a href="https://github.com/martarelli">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=martarelli&theme=dark&show_icons=true" />
+    <img height="200em" weight="45%" src="https://github-readme-stats.vercel.app/api?username=martarelli&theme=dark&show_icons=true" />
   </a>
   <a href="https://github.com/martarelli">
-    <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Martarelli&hide=html&layout=compact=true&theme=dark" />
+    <img height="200em" weight="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Martarelli&hide=html&layout=compact=true&theme=dark" />
   </a>
 <br/>
 
