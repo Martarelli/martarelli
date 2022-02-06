@@ -14,6 +14,10 @@
   </a>
 <br/>
 
+[![Linkedin: Renan Martarelli](https://img.shields.io/badge/-Martarelli-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rmartarelli/)](https://www.linkedin.com/in/rmartarelli/)
+[![Gmail Badge](https://img.shields.io/badge/-Martarelli-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:renanmartarelli@gmail.com)](mailto:renanmartarelli@gmail.com)
+[![GitHub Martarelli]( https://img.shields.io/github/followers/martarelli?label=follow&style=social)](https://github.com/Martarelli)
+
 <h3> :rocket: &nbsp;Minhas Skills </h3>
 
 **Aplicações e Dados**
@@ -40,9 +44,7 @@
 
 
 
-[![Linkedin: Renan Martarelli](https://img.shields.io/badge/-Martarelli-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rmartarelli/)](https://www.linkedin.com/in/rmartarelli/)
-[![Gmail Badge](https://img.shields.io/badge/-Martarelli-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:renanmartarelli@gmail.com)](mailto:renanmartarelli@gmail.com)
-[![GitHub Martarelli]( https://img.shields.io/github/followers/martarelli?label=follow&style=social)](https://github.com/Martarelli)
+
 <!--
 **Martarelli/martarelli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
