@@ -4,14 +4,15 @@
 - 💼 &nbsp; Buscando uma oportunidade profissional como Desenvolvedor de Softwares.
 - 🌱 &nbsp; Aprendendo mais sobre **Python, Javascript, Angular 8+ e ReactJS**.
 
-
+<br>
+<div>
   <a href="https://github.com/martarelli">
-    <img height="220em" src="https://github-readme-stats.vercel.app/api?username=martarelli&theme=dark&show_icons=true" />
+    <img height="220em" width="" src="https://github-readme-stats.vercel.app/api?username=martarelli&theme=dark&show_icons=true" />
   </a>
   <a href="https://github.com/martarelli">
-    <img height="220em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Martarelli&hide=html&layout=compact=true&theme=dark" />
+    <img height="220em" width="100px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Martarelli&hide=html&layout=compact=true&theme=dark" />
   </a>
-
+</div>
 
 <h3> Minhas Skills :rocket: &nbsp;</h3>
 
