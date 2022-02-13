@@ -27,10 +27,9 @@
   <img align="right" alt="Martarelli-pic" height="135" style="border-radius:50px;" src="https://c.tenor.com/F2q8AHyHa4oAAAAM/goku-songoku.gif">
 </div>
 
-<br/>
  [![Linkedin: Renan Martarelli](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/rmartarelli/)](https://www.linkedin.com/in/rmartarelli/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:renanmartarelli@gmail.com)](mailto:renanmartarelli@gmail.com)
 [![GitHub Martarelli]( https://img.shields.io/github/followers/martarelli?label=follow&style=social)](https://github.com/Martarelli)
-<br/>
+
 
 ![Snake animation](https://github.com/martarelli/martarelli/blob/output/github-contribution-grid-snake.svg)
