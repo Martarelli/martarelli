@@ -27,7 +27,7 @@
   <img align="center" alt="Martarelli-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Martarelli-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Martarelli-MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/mysql-original.svg">
-  <img align="right" alt="Martarelli-pic" height="150" style="border-radius:50px;" src="https://c.tenor.com/F2q8AHyHa4oAAAAM/goku-songoku.gif">
+  <img align="right" alt="Martarelli-pic" height="85" style="border-radius:50px;" src="https://c.tenor.com/F2q8AHyHa4oAAAAM/goku-songoku.gif">
 </div>
  
 ![Snake animation](https://github.com/martarelli/martarelli/blob/output/github-contribution-grid-snake.svg)
