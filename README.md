@@ -13,7 +13,7 @@
   </a>
 <br/>
 
-[![Linkedin: Renan Martarelli](https://img.shields.io/badge/-Martarelli-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rmartarelli/)](https://www.linkedin.com/in/rmartarelli/)
+[![Linkedin: Renan Martarelli](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/rmartarelli/)](https://www.linkedin.com/in/rmartarelli/)
 [![Gmail Badge](https://img.shields.io/badge/-Martarelli-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:renanmartarelli@gmail.com)](mailto:renanmartarelli@gmail.com)
 [![GitHub Martarelli]( https://img.shields.io/github/followers/martarelli?label=follow&style=social)](https://github.com/Martarelli)
 
