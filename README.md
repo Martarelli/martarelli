@@ -29,6 +29,7 @@
   <img align="center" alt="Martarelli-MySQL" height="30" width="40" src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg">
   <img align="right" alt="Martarelli-pic" height="85" style="border-radius:50px;" src="https://c.tenor.com/F2q8AHyHa4oAAAAM/goku-songoku.gif">
 </div>
+<br>
  
 ![Snake animation](https://github.com/martarelli/martarelli/blob/output/github-contribution-grid-snake.svg)
 
