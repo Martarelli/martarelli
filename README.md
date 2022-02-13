@@ -13,6 +13,7 @@
     <img height="220em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Martarelli&hide=html&layout=compact=true&theme=dark" />
   </a>
 </div>
+<br>
 
 <h3> Minhas Skills :rocket: &nbsp;</h3>
 
