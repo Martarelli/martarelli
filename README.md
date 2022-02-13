@@ -4,14 +4,14 @@
 - 💼 &nbsp; Buscando uma oportunidade profissional como Desenvolvedor de Softwares.
 - 🌱 &nbsp; Aprendendo mais sobre **Python, Javascript, Angular 8+ e ReactJS**.
 
-<br/>
+
   <a href="https://github.com/martarelli">
     <img height="220em" src="https://github-readme-stats.vercel.app/api?username=martarelli&theme=dark&show_icons=true" />
   </a>
   <a href="https://github.com/martarelli">
     <img height="220em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Martarelli&hide=html&layout=compact=true&theme=dark" />
   </a>
-<br/>
+
 
 <h3> Minhas Skills :rocket: &nbsp;</h3>
 
@@ -26,7 +26,7 @@
   <img align="center" alt="Martarelli-MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
 <!--   <img align="center" padding-left="20px" alt="Martarelli-pic" height="125" style="border-radius:50px;" src="https://c.tenor.com/F2q8AHyHa4oAAAAM/goku-songoku.gif"> -->
 </div>
-<br><br>
+<br>
 
  [![Linkedin: Renan Martarelli](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/rmartarelli/)](https://www.linkedin.com/in/rmartarelli/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:renanmartarelli@gmail.com)](mailto:renanmartarelli@gmail.com)
