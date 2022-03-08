@@ -2,7 +2,7 @@
 
 - 🎓 &nbsp; Formado em Administração e Engenharia Civil.
 - 💼 &nbsp; Buscando uma oportunidade profissional como Desenvolvedor de Softwares.
-- 🌱 &nbsp; Aprendendo mais sobre **Python, Javascript, Angular 8+ e ReactJS**.
+- 🌱 &nbsp; Aprendendo mais sobre **Angular 8+, Typescript, Javascript, ReactJS e Python**.
 
 <br>
 <div>
