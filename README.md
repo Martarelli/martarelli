@@ -1,8 +1,7 @@
 **<h1>  😎  &nbsp;Oi, Seja bem vindo ao meu Github </h1>**
 
-- 🎓 &nbsp; Formado em Administração e Engenharia Civil.
 - 💼 &nbsp; Buscando uma oportunidade profissional como Desenvolvedor de Softwares.
-- 🌱 &nbsp; Aprendendo mais sobre **Angular 8+, Typescript, Javascript, ReactJS e Python**.
+- 🌱 &nbsp; Aprendendo mais sobre **Angular 8+, Typescript, Java, ReactJS e Python**.
 
 <br>
 <div>
@@ -20,10 +19,12 @@
   <img align="center" alt="Martarelli-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Martarelli-Angular" height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/240px-Angular_full_color_logo.svg.png">
   <img align="center" alt="Martarelli-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Martarelli-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="Martarelli-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Martarelli-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Martarelli-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Martarelli-MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+  
   <img align="right" padding-left="20px" alt="Martarelli-pic" height="125" style="border-radius:50px;" src="https://c.tenor.com/F2q8AHyHa4oAAAAM/goku-songoku.gif">
   <h2> </h2>
 </div>
