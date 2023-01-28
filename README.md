@@ -8,9 +8,9 @@
   <a href="https://github.com/martarelli">
     <img height="220em" src="https://github-readme-stats.vercel.app/api?username=martarelli&theme=dark&show_icons=true" />
   </a>
-  <a href="https://github.com/martarelli">
+<!--   <a href="https://github.com/martarelli">
     <img height="220em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Martarelli&hide=html&layout=compact=true&theme=dark" />
-  </a>
+  </a> -->
 </div>
 <br>
 
