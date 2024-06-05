@@ -30,5 +30,5 @@
 [![GitHub Martarelli]( https://img.shields.io/github/followers/martarelli?label=follow&style=social)](https://github.com/Martarelli)
 </div>
 
-![snake animation](https://github.com/<martarelli>/<martarelli>/blob/output/github-contribution-grid-snake2.svg)
+![snake animation](https://github.com/martarelli/martarelli/blob/output/github-contribution-grid-snake2.svg)
 
