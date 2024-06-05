@@ -7,7 +7,7 @@
 <div>
   <a href="https://github.com/martarelli">
     <img height="220em" width="100%"src="https://github-readme-stats.vercel.app/api?username=martarelli&theme=chartreuse-dark&show_icons=true" />
-     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=capelette&layout=compact&langs_count=16&theme=dracula"/>
+     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=capelette&layout=compact&langs_count=16&theme=chartreuse-dark"/>
   </a>
 <!--   <a href="https://github.com/martarelli">
     <img height="220em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Martarelli&hide=html&layout=compact=true&theme=dark" />
