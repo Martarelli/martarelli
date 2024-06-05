@@ -8,7 +8,7 @@
 </div>
 <br>
 
-<div style="display: inline_block; width: 100%"><br>
+<div style="display: inline_block; height: fit-content"><br>
   <img align="center" alt="Martarelli-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Martarelli-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Martarelli-Angular" height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/240px-Angular_full_color_logo.svg.png">
